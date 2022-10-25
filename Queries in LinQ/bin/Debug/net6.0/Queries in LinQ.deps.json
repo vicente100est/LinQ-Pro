@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Queries in LinQ/1.0.0": {
+        "runtime": {
+          "Queries in LinQ.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Queries in LinQ/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

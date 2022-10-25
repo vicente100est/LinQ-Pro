@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\bin\Debug\net6.0\Queries in LinQ.exe
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\bin\Debug\net6.0\Queries in LinQ.deps.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\bin\Debug\net6.0\Queries in LinQ.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\bin\Debug\net6.0\Queries in LinQ.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\bin\Debug\net6.0\Queries in LinQ.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\refint\Queries in LinQ.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\Queries in LinQ.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Queries in LinQ\obj\Debug\net6.0\ref\Queries in LinQ.dll

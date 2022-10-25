@@ -1,0 +1,18 @@
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\LinQ practice.exe
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\LinQ practice.deps.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\LinQ practice.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\LinQ practice.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\LinQ practice.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\Class.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\bin\Debug\net6.0\Class.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.csproj.CopyComplete
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\refint\LinQ practice.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\LinQ practice.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\LinQ practice\obj\Debug\net6.0\ref\LinQ practice.dll

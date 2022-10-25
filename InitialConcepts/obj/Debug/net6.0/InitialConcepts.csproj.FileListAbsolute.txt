@@ -1,0 +1,15 @@
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\bin\Debug\net6.0\InitialConcepts.exe
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\bin\Debug\net6.0\InitialConcepts.deps.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\bin\Debug\net6.0\InitialConcepts.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\bin\Debug\net6.0\InitialConcepts.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\bin\Debug\net6.0\InitialConcepts.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\refint\InitialConcepts.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\InitialConcepts.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\InitialConcepts\obj\Debug\net6.0\ref\InitialConcepts.dll
