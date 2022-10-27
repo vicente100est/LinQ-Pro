@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InitialConcepts", "InitialConcepts\InitialConcepts.csproj", "{05AD07BB-DF0B-42CB-8BD5-F792B572B514}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InitialConcepts", "InitialConcepts\InitialConcepts.csproj", "{05AD07BB-DF0B-42CB-8BD5-F792B572B514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queries in LinQ", "Queries in LinQ\Queries in LinQ.csproj", "{D9635C21-231B-403B-AA3F-7D4A98D33111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queries in LinQ", "Queries in LinQ\Queries in LinQ.csproj", "{D9635C21-231B-403B-AA3F-7D4A98D33111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinQ practice", "LinQ practice\LinQ practice.csproj", "{93637093-643D-4F34-A4B6-4E7193116689}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ practice", "LinQ practice\LinQ practice.csproj", "{93637093-643D-4F34-A4B6-4E7193116689}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Class", "Class\Class.csproj", "{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubConsulta", "SubConsulta\SubConsulta.csproj", "{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
