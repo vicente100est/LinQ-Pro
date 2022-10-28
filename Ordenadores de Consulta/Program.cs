@@ -78,7 +78,7 @@ ImprimeEmpleados(ft, "TakeWhile");
 //Filtrar, ordenar y agrupar
 var foa = empleadosLst.Where(e => e.Edad <= 30).OrderBy(e => e.Nombre).GroupBy(e => e.Departamento);
 
-ImprimeEmpleados(ft, "Filtrar Ordenar y Agrupar");
+//ImprimeEmpleados(foa, "Filtrar Ordenar y Agrupar");
 
 static void ImprimeEmpleado(EmpleadosModel e)
 {
