@@ -1,0 +1,18 @@
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Ordenadores de Consulta.exe
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Ordenadores de Consulta.deps.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Ordenadores de Consulta.runtimeconfig.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Ordenadores de Consulta.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Ordenadores de Consulta.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Empleados.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\bin\Debug\net6.0\Empleados.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.csproj.CopyComplete
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\refint\Ordenadores de Consulta.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\Ordenadores de Consulta.genruntimeconfig.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Ordenadores de Consulta\obj\Debug\net6.0\ref\Ordenadores de Consulta.dll

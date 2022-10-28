@@ -1,0 +1,12 @@
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\bin\Debug\net6.0\Empleados.deps.json
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\bin\Debug\net6.0\Empleados.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\bin\Debug\net6.0\Empleados.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.csproj.AssemblyReference.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.AssemblyInfo.cs
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\refint\Empleados.dll
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\Empleados.pdb
+C:\Users\vicen\Desktop\lab\Linq\LinQ\Empleados\obj\Debug\net6.0\ref\Empleados.dll

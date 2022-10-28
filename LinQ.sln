@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinQ practice", "LinQ pract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Class", "Class\Class.csproj", "{FDC4D3DC-0D05-4179-8C28-6598AA1B69C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubConsulta", "SubConsulta\SubConsulta.csproj", "{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SubConsulta", "SubConsulta\SubConsulta.csproj", "{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Empleados", "Empleados\Empleados.csproj", "{D7E89CBA-B6DB-40E9-B85D-35F8A827F512}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordenadores de Consulta", "Ordenadores de Consulta\Ordenadores de Consulta.csproj", "{A2E0CD59-FDF0-4C51-A8E3-8D80A55C5E27}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF6C1DF9-F9DD-406E-9E66-E6066A1A0E42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E89CBA-B6DB-40E9-B85D-35F8A827F512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E89CBA-B6DB-40E9-B85D-35F8A827F512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E89CBA-B6DB-40E9-B85D-35F8A827F512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E89CBA-B6DB-40E9-B85D-35F8A827F512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2E0CD59-FDF0-4C51-A8E3-8D80A55C5E27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2E0CD59-FDF0-4C51-A8E3-8D80A55C5E27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2E0CD59-FDF0-4C51-A8E3-8D80A55C5E27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2E0CD59-FDF0-4C51-A8E3-8D80A55C5E27}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

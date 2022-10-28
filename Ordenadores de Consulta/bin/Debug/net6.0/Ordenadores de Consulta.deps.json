@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ordenadores de Consulta/1.0.0": {
+        "dependencies": {
+          "Empleados": "1.0.0"
+        },
+        "runtime": {
+          "Ordenadores de Consulta.dll": {}
+        }
+      },
+      "Empleados/1.0.0": {
+        "runtime": {
+          "Empleados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ordenadores de Consulta/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
