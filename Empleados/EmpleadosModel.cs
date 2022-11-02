@@ -15,5 +15,6 @@
         public Departamento Departamento { get; set; }
         public int Edad { get; set; }
         public int IdExterno { get; set; }
+        public Pago Pagos { get; set; }
     }
 }
